@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>My Second Heading</h1>
-<p>My Second paragraph.</p>
+<h1>My Third Heading</h1>
+<p>My Third paragraph.</p>
 
 </body>
 </html>
